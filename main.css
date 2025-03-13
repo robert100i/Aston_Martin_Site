@@ -1,6 +1,7 @@
 * {
     font-family: Inter;
     margin: 0 auto;
+    padding: 0;
 }
 
 .header {
@@ -262,7 +263,8 @@ body {
     }
     
     .box-text1 {
-        width: 300px;
+        width: 370px;
+        
     }
     
     .box-text1 h2 {
@@ -281,6 +283,7 @@ body {
     .box-text1 p {
         font-weight: 300;
         margin-bottom: 40px;
+        width: 370px;
     }
     
     .button2 {
@@ -291,6 +294,7 @@ body {
         text-decoration: none;
         padding: 16px 33px;
         font-size: 15px;
+        
     }
     
     .car1 {
