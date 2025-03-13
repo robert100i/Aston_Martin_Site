@@ -176,7 +176,6 @@ body {
 
 .footer {
     width: 1917px;
-    height: 281px;
     background-color: #FFFFFF;
     color: #000000;
 }
@@ -191,8 +190,7 @@ body {
     margin-bottom: 14px;
 }
 
-.footer p {
-    
+.info-footer1 {
     width: 1310px;
     height: 51px;
     font-weight: 500;
@@ -201,12 +199,28 @@ body {
     margin-bottom: 64px;
 }
 
+.c {
+    width: 300px;
+    height: 16px;
+    font-weight: 400;
+    font-size: 12px;
+    margin: 0;
+    margin-right: 728px;
+}
+
 .info {
     display: flex;
-    justify-content: space-between;
+    width: 1316px;
+    height: 38px;
 }
 
 .t-p a {
     text-decoration: none;
     color: #000000;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.politica {
+    margin-right: 25px;
 }
