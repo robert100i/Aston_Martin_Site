@@ -224,3 +224,193 @@ body {
 .politica {
     margin-right: 25px;
 }
+
+@media (max-width: 425px ) {
+
+    body {
+        width: 425px;
+    }
+
+    .header {
+        width: 425px;
+        height: 100px;
+    }
+
+    .itens-nav ul {
+    }
+    
+    .button1 {
+        background-color: #000000;
+        border: solid 1px rgb(255, 255, 255);
+        border-radius: 10px;
+        color: #FFFFFF;
+        text-decoration: none;
+        padding: 8px 22px;
+    }
+
+    .main {
+        width: 425px;
+        margin: 0 auto;
+        align-items: center;
+        background-color: #A4A4A4;
+    }
+    
+    .box1 {
+        margin: 152px 323px 64px 321px;
+        margin: 0 auto;
+        display: contents;
+    }
+    
+    .box-text1 {
+        width: 300px;
+    }
+    
+    .box-text1 h2 {
+        font-size: 60px;
+        letter-spacing: 1px;
+        font-weight: 700;
+    }
+    
+    .box-text1 span {
+        font-weight: 400;
+        letter-spacing: 1px;
+        font-style: italic;
+        font-size: 30px;
+    }
+    
+    .box-text1 p {
+        font-weight: 300;
+        margin-bottom: 40px;
+    }
+    
+    .button2 {
+        background-color: #000000;
+        border: solid 1px rgb(255, 255, 255);
+        border-radius: 10px;
+        color: #FFFFFF;
+        text-decoration: none;
+        padding: 16px 33px;
+        font-size: 15px;
+    }
+    
+    .car1 {
+        width: 400px;
+        height: auto;
+        margin-top: 100px;
+    }
+    
+    .box2 {
+        display: contents;
+        margin: 152px 323px 64px 321px;
+        margin: 0 auto;
+    }
+    
+    .car2 {
+        width: 400px;
+        height: auto;
+    }
+    
+    .box-text2 {
+        width: 300px;
+    }
+    
+    .box-text2 p {
+        font-weight: 300;
+        margin: 24px 15px 24px 0;
+        margin-bottom: 40px;
+    }
+    
+    .box3 {
+        display: contents;
+        margin: 152px 323px 64px 321px;
+        margin: 0 auto;
+    }
+    
+    .car3 {
+        width: 400px;
+        height: auto;
+        margin: 0 auto;
+    }
+    
+    .box-text3 {
+        width: 300px;
+    }
+    
+    .box-text3 h2 {
+        font-size: 60px;
+        letter-spacing: 1px;
+        font-weight: 700;
+    }
+    
+    .box-text3 p {
+        font-family: Helvetica;
+        font-weight: 400;
+        font-size: 17px;
+        width: 300px;
+        height: 55px;
+        margin: 8px 30px 25px 0;
+        color: #C4C4C4;
+        line-height: 27.3px;
+    }
+    
+    .button3 {
+        background-color: #000000;
+        border: solid 1px rgb(255, 255, 255);
+        border-radius: 10px;
+        color: #FFFFFF;
+        text-decoration: none;
+        padding: 14px 70px;
+        font-size: 15px;
+    }
+    
+    .footer {
+        width: 425px;
+        background-color: #FFFFFF;
+        color: #000000;
+    }
+    
+    .logo-name {
+        margin: 48px 860px 30px;
+    }
+    
+    .line {
+        width: 400px;
+        border: solid 2px #A4A4A4;
+        margin-bottom: 14px;
+    }
+    
+    .info-footer1 {
+        width: 400px;
+        height: 51px;
+        font-weight: 500;
+        font-size: 14px;
+        text-align: center;
+        margin-bottom: 64px;
+    }
+    
+    .c {
+        width: 300px;
+        height: 16px;
+        font-weight: 400;
+        font-size: 12px;
+        margin: 0;
+        margin-right: 728px;
+    }
+    
+    .info {
+        display: flex;
+        width: 400px;
+        height: 38px;
+    }
+    
+    .t-p a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: 400;
+        font-size: 14px;
+    }
+    
+    .politica {
+        margin-right: 25px;
+    }
+}
